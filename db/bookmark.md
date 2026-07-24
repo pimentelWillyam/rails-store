@@ -1,0 +1,1 @@
+10.0 https://guides.rubyonrails.org/getting_started.html#querying-records
